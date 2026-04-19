@@ -1,0 +1,25 @@
+Items: {
+	small_bone: {
+		DisplayName: small bone
+		Tooltip:
+			'''
+			[c/1118ff1:small bone]
+			[c/8b00ff:Use Karma]
+			'''
+	}
+
+	GasterBlasterSummonWeapon: {
+		DisplayName: Gaster Blaster Summon Weapon
+		Tooltip: ""
+	}
+}
+
+Buffs: {
+	GasterMinionBuff: {
+		DisplayName: Gaster Minion Buff
+		Description: Mods.Underverse_Test.Buffs.GasterMinionBuff.Description
+	}
+}
+
+Projectiles.Gaster_blaster_summon.DisplayName: Gaster_blaster_summon
+Keybinds.Debug.DisplayName: Debug

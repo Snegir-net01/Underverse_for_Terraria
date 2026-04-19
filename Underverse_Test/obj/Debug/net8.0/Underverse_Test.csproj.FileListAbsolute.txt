@@ -1,0 +1,12 @@
+C:\Users\egorh\Documents\My Games\Terraria\tModLoader\ModSources\Underverse_Test\bin\Debug\net8.0\Underverse_Test.deps.json
+C:\Users\egorh\Documents\My Games\Terraria\tModLoader\ModSources\Underverse_Test\bin\Debug\net8.0\Underverse_Test.dll
+C:\Users\egorh\Documents\My Games\Terraria\tModLoader\ModSources\Underverse_Test\bin\Debug\net8.0\Underverse_Test.pdb
+C:\Users\egorh\Documents\My Games\Terraria\tModLoader\ModSources\Underverse_Test\obj\Debug\net8.0\Underverse_Test.csproj.AssemblyReference.cache
+C:\Users\egorh\Documents\My Games\Terraria\tModLoader\ModSources\Underverse_Test\obj\Debug\net8.0\Underverse_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorh\Documents\My Games\Terraria\tModLoader\ModSources\Underverse_Test\obj\Debug\net8.0\Underverse_Test.AssemblyInfoInputs.cache
+C:\Users\egorh\Documents\My Games\Terraria\tModLoader\ModSources\Underverse_Test\obj\Debug\net8.0\Underverse_Test.AssemblyInfo.cs
+C:\Users\egorh\Documents\My Games\Terraria\tModLoader\ModSources\Underverse_Test\obj\Debug\net8.0\Underverse_Test.csproj.CoreCompileInputs.cache
+C:\Users\egorh\Documents\My Games\Terraria\tModLoader\ModSources\Underverse_Test\obj\Debug\net8.0\Underverse_Test.dll
+C:\Users\egorh\Documents\My Games\Terraria\tModLoader\ModSources\Underverse_Test\obj\Debug\net8.0\refint\Underverse_Test.dll
+C:\Users\egorh\Documents\My Games\Terraria\tModLoader\ModSources\Underverse_Test\obj\Debug\net8.0\Underverse_Test.pdb
+C:\Users\egorh\Documents\My Games\Terraria\tModLoader\ModSources\Underverse_Test\obj\Debug\net8.0\ref\Underverse_Test.dll
